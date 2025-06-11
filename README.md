@@ -20,6 +20,17 @@ The Stopwatch is a web-based application built with HTML, CSS, and JavaScript. I
 3. **Dynamic Updates**: JavaScript dynamically updates the timer display in real-time, and lap times are appended to the DOM as the user records them.
 
 4. **Styling with CSS**: CSS enhances the user interface, providing a clean, modern, and visually appealing design.
+---
+
+## 🔧 Technologies Used
+
+| Tech         | Purpose                  |
+|--------------|--------------------------|
+| HTML5        | Page structure           |
+| CSS3         | Styling and responsiveness |
+| JavaScript   | Stopwatch logic & interactivity |
+
+---
 
 ## Screenshot
 
@@ -32,7 +43,14 @@ The Stopwatch is a web-based application built with HTML, CSS, and JavaScript. I
 3. Press the "Lap" button to record laps as needed.
 4. Use the "Stop" button to pause the timer.
 5. Reset the timer with the "Reset" button.
-
+   
+## Customization
+Want to expand the app? Here are ideas:
+Add Lap Time feature
+Add millisecond tracking
+Save time logs to local storage
+Add a dark mode toggle
+Make it a PWA (Progressive Web App)
 ## Dependencies
 
 This project uses the following dependencies:
